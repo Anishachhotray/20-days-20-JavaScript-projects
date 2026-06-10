@@ -10,3 +10,7 @@ A simple counter application that allows users to increase, decrease, and reset 
 ### Day 2 - Random Color Generator
 
 A simple JavaScript application that changes the background color randomly with a button click and displays the current selected color.
+
+### Day 3 - Digital Clock
+
+A real-time digital clock that displays the current hour, minute, and second using JavaScript Date objects and intervals.
