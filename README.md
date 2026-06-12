@@ -14,3 +14,7 @@ A simple JavaScript application that changes the background color randomly with 
 ### Day 3 - Digital Clock
 
 A real-time digital clock that displays the current hour, minute, and second using JavaScript Date objects and intervals.
+
+### Day 4 - BMI Calculator
+
+A Body Mass Index (BMI) Calculator that takes weight and height as input and determines the user's BMI category.
