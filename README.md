@@ -18,3 +18,7 @@ A real-time digital clock that displays the current hour, minute, and second usi
 ### Day 4 - BMI Calculator
 
 A Body Mass Index (BMI) Calculator that takes weight and height as input and determines the user's BMI category.
+
+### Day 5 - Tip Calculator
+
+A Tip Calculator that helps users calculate the tip amount and total bill amount based on a selected tip percentage.
