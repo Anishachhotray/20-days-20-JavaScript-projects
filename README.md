@@ -22,3 +22,7 @@ A Body Mass Index (BMI) Calculator that takes weight and height as input and det
 ### Day 5 - Tip Calculator
 
 A Tip Calculator that helps users calculate the tip amount and total bill amount based on a selected tip percentage.
+
+### Day 6 - Number Guessing Game
+
+A Number Guessing Game where users try to guess a randomly generated number between 1 and 50 within a limited number of attempts
