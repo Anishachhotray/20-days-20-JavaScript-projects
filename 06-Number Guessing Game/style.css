@@ -6,7 +6,7 @@
 }
 
 body{
-
+    width: 100%;
     min-height: 100vh;
     display: flex;
     justify-content: center;
@@ -22,7 +22,7 @@ body{
 .container{
 
     width: 90%;
-    max-width: 500px; 
+    max-width: 600px; 
     text-align:center;
     padding: 40px;
     background: rgba(10,10,30,0.65);
