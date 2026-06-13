@@ -1,0 +1,126 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:'Poppins', sans-serif;
+}
+
+body{
+
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(assets/bg\ image.png);
+    background-size: cover;
+    background-position:  center;
+    background-repeat: no-repeat;
+    
+
+}
+
+.container{
+
+    width: 90%;
+    max-width: 500px; 
+    text-align:center;
+    padding: 40px;
+    background: rgba(10,10,30,0.65);
+    backdrop-filter: blur(12px);
+    border: 1px solid rgba(255,255,255,0.1);
+    box-shadow: 0 0 20px rgba(79,172,254,0.3),
+                0 0 40px rgba(139,92,246,0.2);
+    border-radius: 10px;
+
+}
+
+h1{
+
+    color: white;
+    font-size: 2rem;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    text-shadow: 0 0 20px rgba(79,172,254,0.5);
+    
+
+}
+
+h2{
+
+    color: #d0dbeb;
+    font-size: 1.1rem;
+    margin-top: 10px;
+    margin-bottom: 20px;
+
+}
+label{
+    display:block ;
+    width: 100%;
+    max-width: 700px;
+    color: aliceblue;
+}
+
+input{
+
+    width: 250px;
+    padding: 5px;
+    border: none;
+    text-align: center;
+    background: rgba(131, 131, 197, 0.65);
+    backdrop-filter: blur(12px);
+    border: 1px solid rgba(255,255,255,0.1);
+    box-shadow: 0 0 20px rgba(79,172,254,0.3),
+                0 0 40px rgba(139,92,246,0.2);
+    color: white;
+    margin-top  : 10px;     
+}
+
+button{
+    padding: 5px;
+    border: none;
+    border-radius: 2px;
+    background: linear-gradient(135deg, #4facfe, #8768d0);
+    cursor: pointer;
+    font-weight: bold;
+    color: white;
+    transition: 0.3s;
+    margin-top: 20px;
+
+}
+
+button:hover{
+
+    box-shadow:
+    0 0 15px rgba(79,172,254,0.5);
+
+}
+
+#message{
+
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 15px;
+    background: rgba(255,255,255,0.08);
+    color: white;
+
+}
+
+#attempts{
+
+    color: aliceblue;
+    margin-top: 10px;
+    color: #facc15;
+    font-size: 1.2rem;
+    font-weight: bold;
+
+}
+
+#attemptsLeft{
+
+    color: aliceblue;
+    margin-top: 10px;
+    color: #facc15;
+    font-size: 1.2rem;
+    font-weight: bold;
+
+}
