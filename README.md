@@ -25,4 +25,8 @@ A Tip Calculator that helps users calculate the tip amount and total bill amount
 
 ### Day 6 - Number Guessing Game
 
-A Number Guessing Game where users try to guess a randomly generated number between 1 and 50 within a limited number of attempts
+A Number Guessing Game where users try to guess a randomly generated number between 1 and 50 within a limited number of attempts.
+
+### Day 7 - Simple Calculator
+
+A calculator application that performs basic arithmetic operations such as addition, subtraction, multiplication, division, and percentage calculations.
