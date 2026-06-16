@@ -30,3 +30,7 @@ A Number Guessing Game where users try to guess a randomly generated number betw
 ### Day 7 - Simple Calculator
 
 A calculator application that performs basic arithmetic operations such as addition, subtraction, multiplication, division, and percentage calculations.
+
+### Day 8 - Text Analyzer & Counter
+
+A text analysis tool that counts characters, words, vowels, and consonants from user input.
