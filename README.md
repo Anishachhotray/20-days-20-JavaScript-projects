@@ -2,6 +2,7 @@
 One project a day. Twenty projects. Endless learning. 💻✨
 
 A collection of JavaScript projects built while learning frontend development and strengthening core JavaScript concepts.
+
 ## Projects
 ### Day 1 - Counter App
 
@@ -34,3 +35,10 @@ A calculator application that performs basic arithmetic operations such as addit
 ### Day 8 - Text Analyzer & Counter
 
 A text analysis tool that counts characters, words, vowels, and consonants from user input.
+
+### Day 9 - Palindrome Checker
+
+A simple web application  that checks whether a given word, sentence, or number is a palindrome.
+
+
+
