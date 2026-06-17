@@ -7,13 +7,13 @@ A palindrome is a string that reads the same forward and backward, ignoring spac
 
 ## Features
 
- ✔️ Checks words, numbers, and sentences
- ✔️ Ignores spaces and special characters
- ✔️ Case-insensitive comparison
- ✔️ Displays reversed string
- ✔️ Shows clear result (Palindrome / Not Palindrome)
- ✔️ Input validation with user-friendly messages
- ✔️ Simple and responsive UI
+- ✔️ Checks words, numbers, and sentences
+- ✔️ Ignores spaces and special characters
+- ✔️ Case-insensitive comparison
+- ✔️ Displays reversed string
+- ✔️ Shows clear result (Palindrome / Not Palindrome)
+- ✔️ Input validation with user-friendly messages
+- ✔️ Simple and responsive UI
 
 ## How It Works
 
