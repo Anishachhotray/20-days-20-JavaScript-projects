@@ -2,14 +2,19 @@ const input = document.getElementById("input");
 const button = document.getElementById("add");
 const taskList = document.getElementById("taskList");
 
+let tasks = [];
+
 button.addEventListener("click",function(){
 
-    let task = input.value;
+    let task = input.value.trim();
 
     if(task === ""){
         alert("Please enter a task");
         return;
     }
+
+    tasks.push(task);
+    console.log(tasks);
 
     let li = document.createElement("li");
 
@@ -36,7 +41,14 @@ button.addEventListener("click",function(){
     deleteBtn.textContent = "🗑";
 
     deleteBtn.addEventListener("click", function(){
+         let index = tasks.indexOf(task);
+
+        if(index > -1){
+            tasks.splice(index, 1);
+         }
+
         li.remove();
+        console.log(tasks);
     });
 
     li.appendChild(checkBox);
