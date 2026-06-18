@@ -40,5 +40,8 @@ A text analysis tool that counts characters, words, vowels, and consonants from 
 
 A simple web application  that checks whether a given word, sentence, or number is a palindrome.
 
+### Day 10 - To-Do List App
+
+A simple and interactive To-Do List application built using HTML, CSS, and JavaScript. This app allows users to add tasks, mark them as completed, and delete them when finished.
 
 
