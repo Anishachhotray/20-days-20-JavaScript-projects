@@ -86,6 +86,8 @@ input::placeholder{
 
 .task-text{
     flex: 1;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
 }
 
 button{
