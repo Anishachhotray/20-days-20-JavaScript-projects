@@ -14,7 +14,7 @@ body{
 }
 
 .container{
-    width: 100%;
+    width: 95%;
     max-width:500px;
     padding: 30px;
     background: transparent;
@@ -34,9 +34,14 @@ h1{
 
 .inputArea{
     display:flex;
-    justify-content: center;
+    align-items: center;
     margin-bottom: 40px;
     gap: 10px;
+}
+
+input{
+    flex: 1;
+    min-width:0;
 }
 
 label{
