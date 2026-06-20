@@ -1,0 +1,110 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:monospace;
+}
+
+body{
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background:#222225;
+}
+
+.container{
+    width: 100%;
+    max-width:500px;
+    padding: 30px;
+    background: transparent;
+    box-shadow: 0 0 20px #00FF66;
+    color: #ffffff;
+    border: 2px solid #00FF66;
+    text-align: center;
+}
+
+h1{
+    
+    color: white;
+    margin-bottom: 35px;
+    font-size: 2.7rem;
+    font-weight: bold;
+}
+
+.inputArea{
+    display:flex;
+    justify-content: center;
+    margin-bottom: 40px;
+    gap: 10px;
+}
+
+label{
+    color: white;
+    font-size: 24px;
+}
+
+input{
+    background:transparent;
+    color: white;
+    border: 1px solid #ffffff;
+    border-radius: 0px;
+    padding: 5px;
+}
+
+input:focus{
+    border-color: #00FF66;
+    box-shadow: 0 0 8px rgba(0,255,102,0.4);
+}
+
+#generate{
+    background: #00FF66;
+    color: black;
+    border: none;
+    border-radius: 0px;
+    padding: 12px 25px;
+    cursor: pointer;
+    transition: 0.3s ease;
+    width: 150px;
+    margin-bottom: 25px;
+    font-size: 20px;
+    
+}
+
+#generate:hover{
+    background: #00CC55;
+    transform: translateY(-2px);
+}
+
+#copy{
+    background: transparent;
+    border: none;
+    color: #00FF66;
+    font-size: 22px;
+    cursor: pointer;
+    transition: 0.3s ease;
+}
+
+
+
+#copy:hover{
+    transform: scale(1.15);
+}
+
+#result{
+    font-family: monospace;
+    font-size: 18px;
+    padding: 5px;
+    font-weight: bold;
+    overflow-wrap: break-word;
+    word-break: break-all;
+}
+
+#resultArea{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    border: 1px solid #444;
+    padding: 10px;
+
+}
