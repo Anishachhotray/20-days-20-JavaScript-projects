@@ -47,3 +47,7 @@ A simple and interactive To-Do List application built using HTML, CSS, and JavaS
 ### Day 11 - Password Generator
 
 A simple and secure Password Generator built using HTML, CSS, and JavaScript. This application generates random passwords based on a user-defined length and allows users to copy the generated password with a single click.
+
+### Day 12 - Image Slider
+
+A JavaScript-based Image Slider that displays a collection of images and allows users to navigate between them using Previous and Next buttons.
